@@ -16,11 +16,11 @@
 
 <p align="left"> <a href="https://twitter.com/emingench" target="blank"><img src="https://img.shields.io/twitter/follow/emingench?logo=twitter&style=for-the-badge" alt="emingench" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [emingenc.github.io](emingenc.github.io)
+- 👨‍💻 All of my projects are available at [emingenc.github.io](https://emingenc.github.io/)
 
-- 📝 I regularly write articles on [emingenc.github.io](emingenc.github.io)
+- 📝 I regularly write articles on [emingenc.github.io](https://emingenc.github.io/)
 
-- 📄 Know about my experiences [emingenc.github.io](emingenc.github.io)
+- 📄 Know about my experiences [emingenc.github.io](https://emingenc.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
