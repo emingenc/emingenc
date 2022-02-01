@@ -3,9 +3,6 @@
 
 
 
-<a href="https://frontend.code-inspector.com/public/user/github/emingenc">
-   <img src="https://code-inspector.com/public/badge/user/github/emingenc?style=light" alt="code inspector badge" />
-</a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emingenc&show_icons=true&locale=en" alt="emingenc" /></p>
 
