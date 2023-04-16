@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [emingenc.github.io](https://emingenc.github.io/)
 
-- 📝 I regularly write articles on [emingenc.github.io](https://emingenc.github.io/)
+- 📝 I regularly write articles on [medium/@emingench](https://medium.com/@emingench)
 
 - 📄 Know about my experiences [emingenc.github.io](https://emingenc.github.io/)
 
