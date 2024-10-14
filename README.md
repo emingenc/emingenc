@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emingenc&label=Profile%20views&color=0e75b6&style=flat" alt="emingenc" /> </p>
 
-<p align="left"> <a href="https://twitter.com/emingench" target="blank"><img src="https://img.shields.io/twitter/follow/emingench?logo=twitter&style=for-the-badge" alt="emingench" /></a> </p>
+<p align="left"> <a href="https://x.com/emingench" target="blank"><img src="https://img.shields.io/x/follow/emingench?logo=x&style=for-the-badge" alt="emingench" /></a> </p>
 
 
 - 📝 I regularly write articles on [medium/@emingench](https://medium.com/@emingench)
