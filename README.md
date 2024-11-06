@@ -13,7 +13,6 @@
 
 
 
-- 📝 I regularly write articles on [medium/@emingench](https://medium.com/@emingench)
 
 
 <h3 align="left">Connect with me:</h3>
